@@ -45,5 +45,10 @@ Puedes ejecutar cada sección de código en tu entorno de R para reproducir los 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, siéntete libre de abrir un issue o un pull request.
 
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+## Referencias
+
+- **Conjunto de Datos `HELPrct`**: Este conjunto de datos proviene del paquete `mosaic`, que incluye información sobre la salud mental de adolescentes. Para más detalles, puedes consultar el documento original: [HELPrct Dataset Documentation](https://cran.r-project.org/web/packages/mosaic/mosaic.pdf#page=16).
+- **Paquete `mosaic`**: [CRAN](https://cran.r-project.org/web/packages/mosaic/index.html)
+- **Paquete `report`**: [CRAN](https://cran.r-project.org/web/packages/report/index.html)
+- **Paquete `datarium`**: [CRAN](https://cran.r-project.org/web/packages/datarium/index.html)
+- **Paquete `ggplot2`**: [CRAN](https://cran.r-project.org/web/packages/ggplot2/index.html)
